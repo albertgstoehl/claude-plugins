@@ -1,0 +1,13 @@
+{
+  "name": "gstoehl-tools",
+  "description": "Local CLI tools integration: km (knowledge management), bookmark manager, and paperless-ngx workflows",
+  "version": "1.0.0",
+  "author": {
+    "name": "Albert Gstöhl",
+    "email": "albert@gstoehl.dev"
+  },
+  "homepage": "https://git.fml128.ch/albert/claude-plugins",
+  "repository": "https://git.fml128.ch/albert/claude-plugins.git",
+  "license": "MIT",
+  "keywords": ["local-tools", "bookmarks", "notes", "paperless", "zettelkasten"]
+}
